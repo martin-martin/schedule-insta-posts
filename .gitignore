@@ -1,0 +1,6 @@
+*.ipynb
+.ipynb*
+env
+*.jpg
+*.png
+secrets.*
