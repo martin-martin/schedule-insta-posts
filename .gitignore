@@ -6,3 +6,4 @@ env
 secrets.*
 private*
 __pycache__
+*.mp4
